@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 👨‍💻 **Freelancer Fullstack Web Developer** specializing in modern web solutions.
 - 🎓 Currently mastering advanced **Full Stack Development** and scalable architectures.
-- 📩 Reach out to me: **A7medSamirr2@gmail.com**
+- 📩 Reach out to me: **ahmeedsalama.dev@gmail.com**
 - ⚡ Fun fact: **I believe learning is a lifelong journey, and I’m always on it.**
 
 ---
@@ -29,7 +29,7 @@
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ahmeedsalama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmeedsalama" height="30" width="40" /></a>
-<a href="mailto:A7medSamirr2@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="A7medSamirr2@gmail.com" height="30" width="40" /></a>
+<a href="mailto:ahmeedsalama.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ahmeedsalama.dev@gmail.com" height="30" width="40" /></a>
 </p>
 
 ---
